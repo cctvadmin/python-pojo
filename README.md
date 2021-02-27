@@ -2,7 +2,9 @@
 
 python 数据库数据转对象,类似 jpa  
 解决 python 使用 sql 时无法面向对象问题  
-查看demo:[demo](https://github.com/cctvadmin/python-pojo/tree/main/demo)
+查看demo:[demo](https://github.com/cctvadmin/python-pojo/tree/main/demo)  
+微信扫码预览：  
+![1](wx.jpg)
 
 # 文件目录
 
