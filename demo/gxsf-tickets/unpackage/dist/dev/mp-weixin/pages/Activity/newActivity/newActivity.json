@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "发布活动",
+  "usingComponents": {
+    "uinput": "/components/poiuy-uinput/uinput",
+    "k-x-date-time": "/components/kx-datetime/kx-datetime"
+  }
+}

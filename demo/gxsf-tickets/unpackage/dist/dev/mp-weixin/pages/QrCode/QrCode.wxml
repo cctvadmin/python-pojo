@@ -1,0 +1,1 @@
+<view id="page" class="data-v-01120a06"><image src="{{url}}" mode="aspectFit" class="data-v-01120a06"></image><view style="width:100%;text-align:center;" class="data-v-01120a06">{{''+code+''}}</view><view style="width:100%;text-align:center;" class="data-v-01120a06">{{''+user_name+''}}</view></view>

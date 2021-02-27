@@ -1,0 +1,122 @@
+{
+	"pages": [{
+		"path": "pages/tabBar/bar_1/bar_1",
+		"style": {
+			"navigationBarTitleText": "首页",
+			"enablePullDownRefresh": true
+		}
+
+	}, {
+		"path": "pages/tabBar/bar_2/bar_2",
+		"style": {
+			"navigationBarTitleText": "我的",
+			"enablePullDownRefresh": true
+		}
+
+	}, {
+		"path": "pages/Activity/newActivity/newActivity",
+		"style": {
+			"navigationBarTitleText": "发布活动"
+		}
+	}, {
+		"path": "pages/Activity/listActivity/listActivity",
+		"style": {
+			"navigationBarTitleText": "活动列表",
+			"enablePullDownRefresh": true
+		}
+	}, {
+		"path": "pages/lgin/lgin",
+		"style": {
+			"navigationBarTitleText": "登录",
+			"enablePullDownRefresh": false
+		}
+
+	}, {
+		"path": "pages/user/participate",
+		"style": {
+			"navigationBarTitleText": "我的参与",
+			"enablePullDownRefresh": true
+		}
+
+	}, {
+		"path": "pages/user/personal/personal",
+		"style": {
+			"navigationBarTitleText": "个人资料",
+			"enablePullDownRefresh": true
+		}
+
+	}, {
+		"path": "pages/user/news/news",
+		"style": {
+			"navigationBarTitleText": "系统消息",
+			"enablePullDownRefresh": true
+		}
+
+	}, {
+		"path": "pages/user/myRelease/myRelease",
+		"style": {
+			"navigationBarTitleText": "我的发布",
+			"enablePullDownRefresh": true
+		}
+
+	}, {
+		"path": "pages/user/review/review",
+		"style": {
+			"navigationBarTitleText": "审核申请",
+			"enablePullDownRefresh": true
+		}
+	}, {
+		"path": "pages/Activity/activityItem/activityItem",
+		"style": {
+			"navigationBarTitleText": "活动item",
+			"enablePullDownRefresh": true
+		}
+
+	}, {
+		"path": "pages/user/tickets/tickets",
+		"style": {
+			"navigationBarTitleText": "我的门票",
+			"enablePullDownRefresh": true
+		}
+
+	}, {
+		"path": "pages/QrCode/QrCode",
+		"style": {
+			"navigationBarTitleText": "审核密钥Hash",
+			"enablePullDownRefresh": false
+		}
+
+	}, {
+		"path": "pages/user/userItem/userItem",
+		"style": {
+			"navigationBarTitleText": "用户中心",
+			"enablePullDownRefresh": true
+		}
+
+	}],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "有你有票Y",
+		"navigationBarBackgroundColor": "#F6F7FB",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"borderStyle": "white",
+		"backgroundColor": "#F6F7FB",
+		"color": "#4E5A6E",
+		"selectedColor": "#f33e54",
+		"list": [{
+				"pagePath": "pages/tabBar/bar_1/bar_1",
+				"iconPath": "static/tabBar/home.png",
+				"selectedIconPath": "static/tabBar/home_ac.png",
+				"text": "首页"
+			},
+			{
+				"pagePath": "pages/tabBar/bar_2/bar_2",
+				"iconPath": "static/tabBar/me.png",
+				"selectedIconPath": "static/tabBar/me_ye.png",
+				"text": "我的"
+			}
+		]
+	}
+}

@@ -1,0 +1,10 @@
+#list.data-v-50876ab0 {
+  width: 98%;
+  margin: 0 auto;
+}
+#list .item.data-v-50876ab0 {
+  width: 45%;
+  margin: 2% 2%;
+  display: inline-block;
+}
+

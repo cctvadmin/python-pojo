@@ -1,0 +1,47 @@
+.img.data-v-5d5d9e70 {
+  width: 100%;
+}
+.img image.data-v-5d5d9e70 {
+  width: 100%;
+}
+.texts.data-v-5d5d9e70 {
+  width: 90%;
+  margin: 10px auto;
+}
+.texts .title.data-v-5d5d9e70 {
+  font-size: 20px;
+}
+.texts .message.data-v-5d5d9e70 {
+  font-size: 25rpx;
+  margin-top: 10px;
+}
+.green.data-v-5d5d9e70 {
+  font-size: 10px;
+}
+.green .radio.data-v-5d5d9e70 {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: #508636;
+  float: left;
+  margin-right: 10px;
+  margin-top: 4px;
+}
+.red.data-v-5d5d9e70 {
+  font-size: 10px;
+}
+.red .radio.data-v-5d5d9e70 {
+  float: left;
+  margin-right: 10px;
+  margin-top: 4px;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: #B47F71;
+}
+.operation.data-v-5d5d9e70 {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+

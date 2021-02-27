@@ -1,0 +1,17 @@
+.sms-list.data-v-7e79a2f8 {
+  width: 98%;
+  margin: 0 auto;
+}
+.sms-list .sms-item.data-v-7e79a2f8 {
+  background-color: #F6F7FB;
+  padding: 2%;
+  margin-top: 2%;
+}
+.sms-list .sms-item image.data-v-7e79a2f8 {
+  width: 20px;
+  height: 20px;
+}
+.sms-list .sms-item text.data-v-7e79a2f8 {
+  margin-left: 10px;
+}
+

@@ -1,0 +1,16 @@
+#list.data-v-37c1fe1c {
+  width: 98%;
+  margin: 0 auto;
+}
+#list .item.data-v-37c1fe1c {
+  width: 45%;
+  margin: 2% 2%;
+  display: inline-block;
+  position: relative;
+}
+.opera.data-v-37c1fe1c {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+

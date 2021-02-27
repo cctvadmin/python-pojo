@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "首页",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "c-a-code-shop-item": "/components/CACode/cacode-shop-item"
+  }
+}

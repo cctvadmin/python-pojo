@@ -1,0 +1,14 @@
+
+button {
+	background-color: #91A6FB;
+	color: white;
+	border: none;
+}
+.color-black {
+	color: #4E5A6E;
+}
+#page {
+	background-color: #F6F7FB;
+	min-height: 100vh;
+}
+

@@ -1,0 +1,32 @@
+#page.data-v-3b973e63 {
+  background-color: #F6F7FB;
+  min-height: 100vh;
+}
+.div.data-v-3b973e63 {
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#operation.data-v-3b973e63 {
+  width: 100%;
+  text-align: center;
+}
+#operation .left.data-v-3b973e63 {
+  width: 49%;
+  float: left;
+}
+#operation .right.data-v-3b973e63 {
+  display: inline-block;
+  width: 49%;
+}
+#list.data-v-3b973e63 {
+  width: 98%;
+  margin: 0 auto;
+}
+#list .item.data-v-3b973e63 {
+  width: 45%;
+  margin: 2% 2%;
+  display: inline-block;
+}
+

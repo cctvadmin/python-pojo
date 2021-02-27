@@ -1,0 +1,47 @@
+#list.data-v-c64d01da {
+  width: 98%;
+  margin: 0 auto;
+}
+#list .item.data-v-c64d01da {
+  width: 45%;
+  margin: 2% 2%;
+  display: inline-block;
+  position: relative;
+}
+.opera.data-v-c64d01da {
+  position: absolute;
+  top: 0;
+  right: 10px;
+}
+.status.data-v-c64d01da {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+.green.data-v-c64d01da {
+  font-size: 10px;
+}
+.green .radio.data-v-c64d01da {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: #508636;
+  float: left;
+  margin-right: 10px;
+  margin-top: 4px;
+}
+.red.data-v-c64d01da {
+  font-size: 10px;
+  font-size: 25rpx;
+  color: #4E5A6E;
+}
+.red .radio.data-v-c64d01da {
+  float: left;
+  margin-right: 10px;
+  margin-top: 4px;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: #B47F71;
+}
+
